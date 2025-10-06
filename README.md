@@ -1,6 +1,6 @@
 # DriveShield: Smart Driver Safety System
 
-**Revolutionary AI-powered automotive safety system combining IoT sensors with computer vision for real-time threat detection.**
+**Revolutionary ML-powered automotive safety system combining IoT sensors with computer vision for real-time threat detection.**
 
 ## Overview
 
@@ -23,7 +23,7 @@ The system combines CNN (Convolutional Neural Networks) and YOLO (You Only Look 
 |-----------|------------|
 | **Hardware** | Raspberry Pi 4, ESP32 Microcontroller |
 | **Software** | Python, OpenCV, TensorFlow/PyTorch |
-| **AI/ML** | CNN, YOLO Algorithms |
+| **ML** | CNN, YOLO Algorithms |
 | **Communication** | UDP Protocol, IoT Sensors |
 | **Interface** | LCD Display, Buzzer Alerts |
 
@@ -62,7 +62,7 @@ This project received **3rd Prize** recognition for innovation in automotive saf
 DRIVESHIELD/
 ????????? src/                    # Source code
 ???   ????????? main.py            # Main application
-???   ????????? detection/         # AI detection modules
+???   ????????? detection/         # ML detection modules
 ???   ????????? hardware/          # Hardware interface modules
 ????????? docs/                  # Documentation
 ????????? tests/                 # Test files
@@ -100,4 +100,5 @@ For questions or collaboration opportunities, please reach out through GitHub Is
 ---
 
 **If you found this project helpful, please give it a star!**
+
 
