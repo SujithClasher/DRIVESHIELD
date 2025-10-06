@@ -56,19 +56,6 @@ This project received **3rd Prize** recognition for innovation in automotive saf
 - Expansion of ML models for complex threat scenarios
 - GPS integration for location-based alerts
 
-## Project Structure
-
-`
-DRIVESHIELD/
-????????? src/                    # Source code
-???   ????????? main.py            # Main application
-???   ????????? detection/         # ML detection modules
-???   ????????? hardware/          # Hardware interface modules
-????????? docs/                  # Documentation
-????????? tests/                 # Test files
-????????? README.md             # Project documentation
-`
-
 ## Getting Started
 
 ### Prerequisites
@@ -100,5 +87,6 @@ For questions or collaboration opportunities, please reach out through GitHub Is
 ---
 
 **If you found this project helpful, please give it a star!**
+
 
 
