@@ -10,7 +10,7 @@ The system combines CNN (Convolutional Neural Networks) and YOLO (You Only Look 
 
 ## Key Features
 
-- **AI-Powered Detection** - Real-time threat identification using CNN + YOLO models
+- **ML-Powered Detection** - Real-time threat identification using CNN + YOLO models
 - **Instant Alerts** - Automated safety warnings within 2 seconds of detection
 - **IoT Integration** - Raspberry Pi + ESP32 with multi-sensor architecture
 - **Live Prototype** - Functional demonstration on integrated test vehicle
@@ -79,7 +79,7 @@ DRIVESHIELD/
 - IoT sensors (ultrasonic, camera)
 
 ### Installation
-`ash
+`bash
 git clone https://github.com/SujithClasher/DRIVESHIELD.git
 cd DRIVESHIELD
 pip install -r requirements.txt
@@ -100,3 +100,4 @@ For questions or collaboration opportunities, please reach out through GitHub Is
 ---
 
 **If you found this project helpful, please give it a star!**
+
